@@ -9,3 +9,4 @@ This project calculates simple interest using:
 
 Formula:
 SI = (P × R × T) / 100
+Bug fix update for assignment pull request
